@@ -1,3 +1,4 @@
+import UserContext from '../../context/UserContext'
 import './globals.css'
 
 export const metadata = {
